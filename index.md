@@ -5,7 +5,7 @@ title: Andrew McCrea's CV
 # Andrew McCrea
 
 ## Contact Details
-2 Rathmena Avenue, Ballyclare, Co. Antrim, BT39 9HX
+__Address:__ 2 Rathmena Avenue, Ballyclare, Co. Antrim, BT39 9HX
 
 __Mobile:__ 07709 469285
 
