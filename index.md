@@ -27,11 +27,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sept 1992 - June 1999`
+__Ballyclare High School.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Sept 1999 - June 2003`
+__University of Ulster__
 
 - Sizar
 
