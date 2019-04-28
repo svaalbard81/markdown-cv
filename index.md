@@ -7,9 +7,9 @@ title: Andrew McCrea's CV
     <tr>
       <th>Address</th>
       <td>
-        2 Rathmena Avenue
-        Ballyclare
-        Co. Antrim
+        2 Rathmena Avenue,
+        Ballyclare,
+        Co. Antrim,
         BT39 9HX
       </td>
   </tr>
