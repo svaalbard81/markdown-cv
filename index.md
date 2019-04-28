@@ -55,7 +55,8 @@ __University of Ulster__
 `May 2009 - Present Day`
 __Lead Software Engineer for CCEA.__
 
-As one of the lead developers in the ICT team I architect and develop high quality solutions in a high-stakes, no-fail environment.  During my time in CCEA I have developed an OMR Suite, Centre Management system, web services for the A2C project, a system to manage the creation of CCEA's qualifications, web services for login authentication and an XML message generator for CCEA's product catalogue.  
+As one of the lead developers in the ICT team I architect and develop high quality solutions in a high-stakes, no-fail environment.  During my time in CCEA I have developed an OMR Suite, Centre Management system, web services for the A2C project, a system to manage the creation of CCEA's qualifications, web services for login authentication and an XML message generator for CCEA's product catalogue. 
+
 At CCEA the main technologies I have used are Java, PrimeFaces, IceFaces, Spring (Spring Boot), Hibernate, CA2e and VB.Net.  In most projects I connect to both MS SQL databases and an AS400 mainframe - creating tables, running queries and managing data.  As part of this database work I have been made administrator on the main development and production SQL servers - helping other team members with their database requirements. 
 
 On a daily basis I use an Agile lifecycle, conforming and contributing to the implementation of TickIT quality management system.  I organise Sprints, allocate tasks, and run daily standups and sprint planning meetings.
