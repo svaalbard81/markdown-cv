@@ -30,17 +30,21 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `Sept 1992 - June 1999`
 __Ballyclare High School.__
 
+- A-Levels
+-- Maths A
+-- Physics A
+-- Chemistry A
+-- Computing A
+
+- GCSEs
+-- 5 A*
+-- 2 A
+-- 2 B
+
 `Sept 1999 - June 2003`
 __University of Ulster__
 
 - Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
 
 ## Awards
 
