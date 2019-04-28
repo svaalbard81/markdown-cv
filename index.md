@@ -3,6 +3,7 @@ layout: cv
 title: Andrew McCrea's CV
 ---
 # Andrew McCrea
+Lead Software Engineer
 
 ## Contact Details
 __Address:__ 2 Rathmena Avenue, Ballyclare, Co. Antrim, BT39 9HX
