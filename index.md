@@ -37,9 +37,7 @@ __Ballyclare High School.__
   - Computing A
 
 - *GCSEs*
-  - 5 A*
-  - 2 A
-  - 2 B
+  - 5 A*, 2 A, 2 B
 
 `Sept 1999 - June 2003`
 __University of Ulster__
