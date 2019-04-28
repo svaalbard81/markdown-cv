@@ -46,36 +46,8 @@ __University of Ulster__
 - Winner of the Kainos prize for top graduating marks.
 - Diploma in Industrial Studies.
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
+## Employment and Work Experience
 
 `1600`
 __Royal Mint__, London
@@ -86,10 +58,28 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
+## Other IT Experience
+
+In addition to the experience gained during previous jobs and work experience, I have developed in many other languages using several different Operating Systems.  These include Visual Basic, Prolog, C++ in both the Windows, and Unix operating systems.  
+
+I designed and developed an E-Commerce site using PHP and a MySQL database.  This system has now been successfully running for several years.  I developed a Church Database and Accounting system using Java, Spring, Hibernate and Icefaces to connect to a MySQL database.
+
+For my final year project I developed an Alarm Correlation Analysis Tool that looked for patterns in the Alarm Logs of Network Elements in Telecommunication Systems.  This covered the whole life cycle and Development was carried out in Java and XML.  
+
+As a member of the British Computer Society I keep up to date with most technology advances and undertake continuing professional development.
+
+
+## Personal Statement
+
+I am trustworthy, responsible, well organised and can work well independently and in a team.  I communicate well with others and take information on board quickly.  I can apply problem-solving skills to most situations where they are required.
+
+I am a strong engineering professional who enjoys learning new skills that enable me to continuously improve the quality of my work.  As part of this I actively work through Udemy courses and organised a subscription for my team to help their development.  I have recently started attending the Kotlin user group meetups.
+
+I enjoy leadership roles and believe that I am hard-working and disciplined.  This is demonstrated by the achievement of black belt in Ju-Jitsu and my grade 6 in music, which required both. These skills help me to develop as a Software Engineer and continually improve as I work.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
 
 
