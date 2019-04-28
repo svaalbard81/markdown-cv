@@ -44,7 +44,9 @@ __Ballyclare High School.__
 `Sept 1999 - June 2003`
 __University of Ulster__
 
-- Sizar
+- Graduated top of year with 1st Class Hons BEng Software Engineering.  
+- Winner of the Kainos prize for top graduating marks.
+- Diploma in Industrial Studies.
 
 ## Awards
 
