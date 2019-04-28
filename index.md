@@ -2,14 +2,16 @@
 layout: cv
 title: Andrew McCrea's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrew McCrea
+2 Rathmena Avenue
+Ballyclare
+Co. Antrim
+BT39 9HX
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+07709 469 285
+<a href="mailto:wamccrea@googlemail.com">wamccrea@googlemail.com</a>
 
+22/05/1981
 
 ## Education
 
