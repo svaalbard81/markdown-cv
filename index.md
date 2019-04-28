@@ -3,13 +3,12 @@ layout: cv
 title: Andrew McCrea's CV
 ---
 # Andrew McCrea
-2 Rathmena Avenue
-Ballyclare
+- 2 Rathmena AvenueBallyclare
 Co. Antrim
 BT39 9HX
 
 07709 469 285
-<a href="mailto:wamccrea@googlemail.com">wamccrea@googlemail.com</a>
+[wamccrea@googlemail.com]mailto:wamccrea@googlemail.com
 
 22/05/1981
 
