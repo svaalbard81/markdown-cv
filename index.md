@@ -5,17 +5,12 @@ title: Andrew McCrea's CV
 # Andrew McCrea
 
 
-## Address
+## 22 May 1981
+
+## Contact Details
 2 Rathmena Avenue, Ballyclare, Co. Antrim, BT39 9HX
-
-### Mobile
 07709 469285
-
-### Email
 <a href="mailto:wamccrea@googlemail.com">wamccrea@googlemail.com</a>
-
-### D.O.B.
-22 May 1981
 
 ## Education
 
