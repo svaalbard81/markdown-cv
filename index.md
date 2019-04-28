@@ -33,10 +33,10 @@ title: Andrew McCrea's CV
 __Ballyclare High School.__
 
 - *A-Levels*
-  - Maths *A*
-  - Physics *A*
-  - Chemistry *A*
-  - Computing *B*
+  - Maths **A**
+  - Physics **A**
+  - Chemistry **A**
+  - Computing **B**
 
 - *GCSEs*
   - 5 A*, 2 A, 2 B
@@ -44,7 +44,7 @@ __Ballyclare High School.__
 `Sept 1999 - June 2003`
 __University of Ulster__
 
-- Graduated top of year with *1st Class Hons BEng Software Engineering*.  
+- Graduated top of year with **1st Class Hons BEng Software Engineering**.  
 - Winner of the Kainos prize for top graduating marks.
 - Diploma in Industrial Studies.
 
